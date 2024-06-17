@@ -24,3 +24,11 @@ img {
 * {
 	box-sizing: border-box;
 }
+
+
+/* superinfo */
+
+.superinfo-bg {
+	color: #fff;
+	background-color: #122ab2;
+}
