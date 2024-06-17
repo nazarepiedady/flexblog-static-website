@@ -7,3 +7,20 @@ body {
 	color: #222;
 	font-family: 'Nunito', sans-serif;
 }
+
+ul {
+	list-style-type: '';
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+}
+
+* {
+	box-sizing: border-box;
+}
