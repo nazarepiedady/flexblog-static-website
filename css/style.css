@@ -129,3 +129,8 @@ img {
 	font-size: 1.25em;
 	margin-bottom: 1em;
 }
+
+.sobre-img {
+	margin: 0 10px;
+	flex: 1 1 160px;
+}
