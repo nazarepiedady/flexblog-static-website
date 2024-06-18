@@ -49,3 +49,9 @@ img {
 .superinfo a {
 	color: #fff;
 }
+
+/* menu */
+
+.menu-bg {
+	background-color: #2c70ff;
+}
