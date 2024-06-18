@@ -90,3 +90,12 @@ img {
 .menu-nav a:hover {
 	color: #122ab2;
 }
+
+/* introdução */
+.introducao {
+	margin: 0 auto;
+	line-height: 1;
+	font-size: 3em;
+	max-width: 960px;
+	padding: 60px 10px;
+}
