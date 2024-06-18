@@ -65,3 +65,13 @@ img {
 	align-items: center;
 	justify-content: space-between;
 }
+
+.menu a {
+	color: #fff;
+}
+
+.menu-logo a {
+	margin: 0 10px;
+	font-weight: bold;
+	font-size: 2.25em;
+}
