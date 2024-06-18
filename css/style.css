@@ -92,10 +92,23 @@ img {
 }
 
 /* introdução */
+
 .introducao {
 	margin: 0 auto;
 	line-height: 1;
 	font-size: 3em;
 	max-width: 960px;
 	padding: 60px 10px;
+}
+
+/* sobre */
+
+.sobre {
+	display: flex;
+	margin: 0 auto;
+	flex-wrap: wrap;
+	padding: 60px 0;
+	max-width: 960px;
+	border-top: 2px solid #2c70ff;
+	border-bottom: 2px solid #2c70ff;
 }
