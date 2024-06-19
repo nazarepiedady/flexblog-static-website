@@ -134,3 +134,16 @@ img {
 	margin: 0 10px;
 	flex: 1 1 160px;
 }
+
+
+/* produtos */
+
+.produtos {
+	margin: 0 auto;
+	max-width: 960px;
+}
+
+.produtos h1 {
+	font-size: 3em;
+	margin: 0 10px 60px 10px;
+}
