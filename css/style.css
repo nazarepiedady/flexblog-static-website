@@ -177,3 +177,14 @@ img {
 .blue {
 	border-top: 8px solid #66d9eb;
 }
+
+
+/* preco */
+
+.preco {
+	display: flex;
+	padding: 60px;
+	flex-wrap: wrap;
+	align-items: flex-end;
+	background-color: #f7f7f7;
+}
