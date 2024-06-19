@@ -255,3 +255,18 @@ img {
 	text-align: center;
 	text-transform: uppercase;
 }
+
+@media screen and (max-width: 800px) {
+	.preco {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	.preco .preco-item:nth-child(3) {
+		order: -2;
+	}
+
+	.preco .preco-item:nth-child(2) {
+		order: -1;
+	}
+}
