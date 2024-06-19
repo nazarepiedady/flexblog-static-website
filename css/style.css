@@ -153,3 +153,27 @@ img {
 	flex-wrap: wrap;
 	align-items: flex-end;
 }
+
+.produtos-item {
+	margin: 10px;
+	flex: 1 1 175px;
+}
+
+.produtos-item h2 {
+	font-size: 3em;
+	color: #a4a4a4;
+	padding: 60px 20px;
+	background-color: #f7f7f7;
+}
+
+.purple {
+	border-top: 8px solid #ae81ff;
+}
+
+.pink {
+	border-top: 8px solid #f9265e;
+}
+
+.blue {
+	border-top: 8px solid #66d9eb;
+}
