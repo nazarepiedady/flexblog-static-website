@@ -317,3 +317,12 @@ img {
 	line-height: 1.4;
 	font-size: 1.25em;
 }
+
+
+/* newsletter */
+.newsletter {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #f7f7f7;
+	padding: 60px calc((100% - 960px) / 2);
+}
