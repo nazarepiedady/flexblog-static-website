@@ -320,9 +320,28 @@ img {
 
 
 /* newsletter */
+
 .newsletter {
 	display: flex;
 	flex-wrap: wrap;
 	background-color: #f7f7f7;
 	padding: 60px calc((100% - 960px) / 2);
+}
+
+.newsletter-info {
+	margin: 0 10px;
+	flex: 1 1 240px;
+}
+
+.newsletter-info h1 {
+	color: #a4a4a4;
+	font-size: 3em;
+}
+
+.newsletter-info p {
+	color: #7c7c7c;
+	max-width: 230px;
+	font-size: 1.25em;
+	font-style: italic;
+	margin-bottom: 10px;
 }
